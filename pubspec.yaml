@@ -1,7 +1,7 @@
 name: mailer_selected
 description: Library for selected mail app for send mail and attachment file with code
 version: 0.0.1
-homepage:
+homepage: https://github.com/lufimon/flutter_mailer_selected
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
